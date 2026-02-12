@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { LinkCard } from './components/LinkCard';
-import { STORE_LINKS, CONTACT_LINKS } from './constants';
+import { LinkCard } from './components/LinkCard.tsx';
+import { STORE_LINKS, CONTACT_LINKS } from './constants.tsx';
 import { Instagram, Share2 } from 'lucide-react';
 
 const App: React.FC = () => {

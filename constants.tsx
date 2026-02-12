@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { ShoppingBag, Instagram, MapPin, MessageCircle, Star, Utensils, Flame, Shirt, Globe } from 'lucide-react';
-import { LinkItem, CategoryItem } from './types';
+import { LinkItem, CategoryItem } from './types.ts';
 
 export const STORE_LINKS: LinkItem[] = [
   {

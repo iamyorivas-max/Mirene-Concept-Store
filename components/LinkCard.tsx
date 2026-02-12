@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { LinkItem } from '../types';
-import { getIcon } from '../constants';
+import { LinkItem } from '../types.ts';
+import { getIcon } from '../constants.tsx';
 import { ArrowUpRight } from 'lucide-react';
 
 interface LinkCardProps {
