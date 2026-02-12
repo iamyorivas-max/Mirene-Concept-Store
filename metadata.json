@@ -1,0 +1,7 @@
+{
+  "name": "MIRENE | Concept Store",
+  "description": "Linge de maison, Vaisselle raffinée, Bougies, Art de vivre & cadeaux. Objets inspirés du monde.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
