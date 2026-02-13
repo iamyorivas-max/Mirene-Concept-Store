@@ -43,13 +43,13 @@ const App: React.FC = () => {
         <p className="text-stone-400 text-[10px] font-bold tracking-[0.2em] mb-4 uppercase">Concept Store</p>
         
         <div className="flex flex-col items-center text-stone-600 text-[13px] space-y-1 mb-8">
-           <p className="flex items-center gap-2 font-light italic">Linge de maison • Vaisselle raffinée</p>
-           <p className="font-light italic">Bougies • Art de vivre & cadeaux</p>
-           <p className="flex items-center gap-1 font-light italic">Objets inspirés du monde</p>
+           <p className="flex items-center gap-2 font-light italic">✨ Linge de maison • 🍽️ Vaisselle raffinée</p>
+           <p className="font-light italic">🕯️ Bougies • Art de vivre & cadeaux</p>
+           <p className="flex items-center gap-1 font-light italic">🌍 Objets inspirés du monde</p>
         </div>
       </div>
 
-      {/* Main Action Links (Now Black & White) */}
+      {/* Main Action Links */}
       <div className="w-full space-y-2 mb-12">
         {STORE_LINKS.map((link) => (
           <LinkCard key={link.id} link={link} />
