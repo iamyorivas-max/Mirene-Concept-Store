@@ -16,7 +16,7 @@ export const STORE_LINKS: LinkItem[] = [
     id: 'whatsapp',
     title: 'Nous contacter sur WhatsApp',
     description: 'Une question ? Échangeons en direct',
-    url: 'https://wa.me/212600000000',
+    url: 'https://wa.me/212784958834',
     icon: 'whatsapp',
     highlight: true,
   },
